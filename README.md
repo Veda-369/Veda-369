@@ -1,4 +1,4 @@
-## Hi, I'm [Veda Bharghav]! 👋
+## Hi, I'm Veda Bharghav! 👋
 
 Welcome to my GitHub profile! I'm a Data Engineer and Data Analyst passionate about building scalable ETL pipelines, real-time data processing, and data-driven insights.
 
