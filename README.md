@@ -37,7 +37,7 @@ I have hands-on experience with **Google Cloud, Snowflake, Apache Spark, and Pos
 ### 📬 Let's Connect!
 🌐 **Portfolio:** [https://veda-369.github.io/](https:[https://veda-369.github.io/])
 
-💼 **LinkedIn:** [Veda Bharghav]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/veda-bharghav-a61aa6304/))
+💼 **LinkedIn:** [Veda Bharghav](https://www.linkedin.com/in/veda-bharghav-a61aa6304/))
 
 📧 **Email:** [V.Bharghav3@gmail.com](mailto:V.Bharghav3@gmail.com)
 
