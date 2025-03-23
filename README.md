@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Data Engineer - Data Analyst passionate abou
 ### 🌟 About Me
 I specialize in **Data Engineering, Analytics, and Workflow Automation**, ensuring efficient data processing and insightful decision-making. My journey started with a strong foundation in **SQL, Python, and Cloud Computing**, leading me to advanced **ETL pipelines, Apache Kafka, and Apache Airflow**.
 
-I have hands-on experience with **Google Cloud, Snowflake, Apache Spark, and PostgreSQL**, working on projects that deepen my expertise in data architecture and analytics. I believe the best way to learn is by implementing real-world solutions, optimizing workflows, and continuous improvement.
+I have hands-on experience with **Azure, Google Cloud, Snowflake, Apache Spark, and PostgreSQL**, working on projects that deepen my expertise in data architecture and analytics. I believe the best way to learn is by implementing real-world solutions, optimizing workflows, and continuous improvement.
 
 ---
 
